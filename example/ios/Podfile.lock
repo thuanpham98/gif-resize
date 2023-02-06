@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - gif_resize (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - gif_resize (from `.symlinks/plugins/gif_resize/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  gif_resize:
+    :path: ".symlinks/plugins/gif_resize/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  gif_resize: 10c5e933b13e154509904223a0ca92b8c1b897df
+
+PODFILE CHECKSUM: 0b9760330d51f49141d136acf33507a58745832d
+
+COCOAPODS: 1.11.3
