@@ -1,0 +1,8 @@
+framework module "GifResize" {
+	header "ref.h"
+    header "Gif_resize.objc.h"
+    header "Universe.objc.h"
+    header "GifResize.h"
+
+    export *
+}
