@@ -1,6 +1,6 @@
 name: gif_resize
 description: A new Flutter plugin for resize gif file with golang for native
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/thuanpham98/gif-resize
 
 environment:
