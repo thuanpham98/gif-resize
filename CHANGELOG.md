@@ -1,3 +1,6 @@
+## 0.0.3
+
+* Update compile sdk version from 26 to 30.
 ## 0.0.2
 
 * Update Readme.
